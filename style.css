@@ -1,3 +1,10 @@
+body{
+  background-color: red;
+}
+
+
+
+
 .output {
   display: flex;
   flex-wrap: wrap;
